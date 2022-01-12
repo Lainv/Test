@@ -1,1 +1,2 @@
 Texte modifie dans secondaire
+Ligne rajoutee apres retour en arriere, dans branche secondaire_avant_merge
